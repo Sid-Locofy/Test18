@@ -1,0 +1,2 @@
+.video{align-self:stretch;height:560px;position:relative}.matterhorn-popup{border-radius:var(--br-5xs);background-color:var(--primary-contrast);padding:var(--padding-xl);box-sizing:border-box;flex-direction:column;justify-content:flex-start;align-items:flex-start;width:900px;max-width:90%;max-height:90%;display:flex;position:relative;overflow:auto}@media screen and (width<=650px){.video{height:50.625vw!important}.matterhorn-popup{padding:var(--padding-3xs);box-sizing:border-box}}
+/*# sourceMappingURL=matterhorn-popup.948a5620.css.map */
