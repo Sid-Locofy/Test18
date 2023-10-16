@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Test18/static/css/main.ea0148f0.css",
+    "main.js": "/Test18/static/js/main.e7e06105.js",
+    "static/js/787.acb82853.chunk.js": "/Test18/static/js/787.acb82853.chunk.js",
+    "static/media/search-section@3x.png": "/Test18/static/media/search-section@3x.571b8ce2f9e0f2b2ec36.png",
+    "static/media/search-container@3x.png": "/Test18/static/media/search-container@3x.c5694f7c2a3953f647d2.png",
+    "static/media/banner@3x.png": "/Test18/static/media/banner@3x.d63492c8350db92dd17d.png",
+    "static/media/pariscard@3x.png": "/Test18/static/media/pariscard@3x.20217011efa1a4dc2362.png",
+    "static/media/norwaycard@3x.png": "/Test18/static/media/norwaycard@3x.0d5ab5a45c3f983189e7.png",
+    "static/media/greececard@3x.png": "/Test18/static/media/greececard@3x.6fd285e42bf2ece0f3e9.png",
+    "static/media/tuscanycard@3x.png": "/Test18/static/media/tuscanycard@3x.99df802738b95be919d4.png",
+    "static/media/newsletter-form-section@3x.png": "/Test18/static/media/newsletter-form-section@3x.0dcfdcc2edc6b1395fd5.png",
+    "static/media/subscribe-section@3x.png": "/Test18/static/media/subscribe-section@3x.883582444234efb8a0e3.png",
+    "static/media/newsletter-form-section1@3x.png": "/Test18/static/media/newsletter-form-section1@3x.cadf4970d6cb6d8f6144.png",
+    "index.html": "/Test18/index.html",
+    "main.ea0148f0.css.map": "/Test18/static/css/main.ea0148f0.css.map",
+    "main.e7e06105.js.map": "/Test18/static/js/main.e7e06105.js.map",
+    "787.acb82853.chunk.js.map": "/Test18/static/js/787.acb82853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea0148f0.css",
+    "static/js/main.e7e06105.js"
+  ]
+}
