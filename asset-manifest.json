@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Test18/static/css/main.827c20ee.css",
+    "main.js": "/Test18/static/js/main.d2a5c277.js",
+    "static/js/787.69af0555.chunk.js": "/Test18/static/js/787.69af0555.chunk.js",
+    "static/media/search-section@3x.png": "/Test18/static/media/search-section@3x.571b8ce2f9e0f2b2ec36.png",
+    "static/media/search-container@3x.png": "/Test18/static/media/search-container@3x.c5694f7c2a3953f647d2.png",
+    "static/media/pariscard@3x.png": "/Test18/static/media/pariscard@3x.5c02639953eab7b22c12.png",
+    "static/media/norwaycard@3x.png": "/Test18/static/media/norwaycard@3x.8dcf8c32c2049f9ce309.png",
+    "static/media/greececard@3x.png": "/Test18/static/media/greececard@3x.7420680a4718865f1860.png",
+    "static/media/tuscanycard@3x.png": "/Test18/static/media/tuscanycard@3x.9369428c194e8af608cb.png",
+    "static/media/subscribe-section@3x.png": "/Test18/static/media/subscribe-section@3x.0ea0ad5220deb9067f41.png",
+    "static/media/newsletter-form-section@3x.png": "/Test18/static/media/newsletter-form-section@3x.e98cb25838b90cba14ad.png",
+    "index.html": "/Test18/index.html",
+    "main.827c20ee.css.map": "/Test18/static/css/main.827c20ee.css.map",
+    "main.d2a5c277.js.map": "/Test18/static/js/main.d2a5c277.js.map",
+    "787.69af0555.chunk.js.map": "/Test18/static/js/787.69af0555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827c20ee.css",
+    "static/js/main.d2a5c277.js"
+  ]
+}
